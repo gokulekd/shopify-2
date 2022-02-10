@@ -1,0 +1,275 @@
+*{
+    margin: 0;
+   
+}
+body{
+  overflow-x:hidden;
+}
+
+.UpperBody{
+
+    width: 1519.2px;
+    height: 1081.83px;
+    background-image: url("./shopify\ main\ image.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+    
+
+}
+.heade_image img{
+  height: 60px;
+    width: 30;
+    padding-left: 685px;
+    padding-top: 22px;
+}
+.main_text{
+    font-weight: bolder;
+color: white;
+    width: 100%;
+    height: 100px;
+    font-size: 3.75em;
+    font-weight: 550;
+      padding-top: 35px;
+text-align: center;
+ font-family: ShopifySans, Helvetica, Arial, sans-serif;
+}
+.second_text{
+  padding-top: 60px;
+  font-size: 30px;
+   color: white;
+text-align: center;
+      font-family: ShopifySans, Helvetica, Arial, sans-serif;
+}
+.email{
+     width: 354px;
+  height: 51px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  margin-top: 20px;
+  margin-left: 500px;
+}
+.button{
+ box-shadow: 0 5px 15px 0 rgb(0 0 0 / 15%);
+ background-color: #212326;
+ color: #ffffff;
+
+  width: 200px;
+  height: 50px;
+  box-sizing: border-box;
+  border: 2px solid rgb(26, 11, 11);
+  border-radius: 4px;
+  font-size: 18px;
+  margin-top: 20px;
+  margin-left: 10px;
+  font-family:  ShopifySans, Helvetica, Arial, sans-serif;
+} 
+.button:hover{
+  background-color: #131416;
+}
+.third_word{
+
+margin-top: 30px;
+    height: 10px;
+      font-size: 12px;
+      color: white;
+text-align: center;
+      font-family: ShopifySans, Helvetica, Arial, sans-serif;
+
+}
+.sub_image img{
+    padding-top: 50px;
+    padding-left: 360px;
+    height: 605px;
+    width: 777px;
+
+}
+.icons{
+padding-top: 80px;
+  height: 100px;
+  padding-left: 260px;
+}
+.discription{
+  width: 100%;
+  height: 300px;
+
+
+}
+.content1{
+
+   height: 300px;
+   width: 263px;
+   float: left;
+
+
+}
+.content2{
+   margin-top: 5px;
+  font-family: ShopifySans, Helvetica, Arial, Lucida Grande, sans-serif;
+   height: 300px;
+   width: 329px;
+   color: #6B7177;
+   font-size: 16px;
+
+float: left;
+}
+.content3{
+   margin-top: 5px;
+   height: 300px;
+   width: 330px;
+     color: #6B7177;
+        font-size: 16px;
+     font-family: ShopifySans, Helvetica, Arial, Lucida Grande, sans-serif;
+
+float: left;
+}
+.content4{
+  margin-top: 5px;
+    color: #6B7177;
+       font-size: 16px;
+    font-family: ShopifySans, Helvetica, Arial, Lucida Grande, sans-serif;
+   height: 300px;
+   width: 25%;
+float: left;
+}
+.symbols_frame{
+    width: 944px;
+    height: 137px;
+    margin-left: 300px;
+    background-color: #fbfffe;
+    border: none;
+    border-bottom: 1px solid #d2d5d9;
+    border-top: 1px solid #d2d5d9;
+}
+.frame1{
+  width:134.3px;
+  height:137px;
+  float: left;
+padding-top: 50px;
+}
+.frame2{
+  width:134.3px;
+  height:137px;
+  float: left;
+padding-top: 50px;
+}
+.frame3{
+  width:134.3px;
+  height:137px;
+  float: left;
+padding-top: 50px;
+}
+.frame4{
+  width:134.3px;
+  height:137px;
+  float: left;
+padding-top: 50px;
+}
+.frame5{
+  width:134.3px;
+  height:137px;
+  float: left;
+padding-top: 50px;
+}
+.frame6{
+  width:134.3px;
+  height:137px;
+  float: left;
+padding-top: 50px;
+}
+.frame7{
+  width:134.3px;
+  height:137px;
+  float: left;
+padding-top: 50px;
+
+
+}
+
+.last_large_text{
+  font-family: ShopifySans, Helvetica, Arial, sans-serif;
+  padding-left: 400px;
+    width:700px;
+    height: 70.88px;
+    font-size: 24px;
+    text-align: center;
+    float: left;
+
+}
+.last_small_text{
+  padding-left: 50px;
+  font-size: 0.875em;;
+margin-left: 400px;
+  width: 600px;
+  height: 70.88px;
+  text-align: center;
+  font-family: ShopifySans, Helvetica, Arial, sans-serif;;
+
+}
+.last_button{
+  padding-top: 20px;
+  padding-left: 625px;
+  float: left;
+  width: 100%;
+  height: 50px;
+
+
+}
+.button1{
+  transition-duration:0.4sec ;
+   box-shadow: 0 5px 15px 0 rgb(0 0 0 / 15%);
+ background-color: #008060;
+ color: #ffffff;
+ cursor: pointer;
+
+  width: 160px;
+  height: 55px;
+  box-sizing: border-box;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 4px;
+  font-size: 1em;
+  margin-top: 40px;
+  margin-left: 10px;
+  font-family:ShopifySans, Helvetica, Arial, sans-serif;
+  border-radius: 6px;
+  font-weight: 700;
+}
+.button1:hover{
+  background-color:#004C3F;
+
+
+
+}
+.last_div{
+
+  margin-top: 50px;
+float: left;
+width: 100%;
+height: 150px;
+
+}
+.last_word{
+  width: 100%;
+  height: 40px;
+  float: left;
+    color: #008060;
+    font-size: 16px;
+font-family: ShopifySans, Helvetica, Arial, Lucida Grande, sans-serif;;
+}
+.last_word1{
+  padding-left: 900px;
+  text-align: end;
+  padding-right: 20px;
+  float: left;
+
+}
+.last_word2{
+  float: left;
+  text-align: end;
+  
+}
+
+
